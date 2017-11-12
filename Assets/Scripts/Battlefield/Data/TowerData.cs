@@ -14,5 +14,6 @@ public class TowerData :BaseNode {
 	public int attackRad;
 	public int state ;//可攻击，受控
 	//TODO:
+	//....
 
 }
